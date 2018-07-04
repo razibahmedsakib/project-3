@@ -1,0 +1,118 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	border: 5px solid red;
+	text-align: center;
+	min-height: 50px;
+	padding: 100px 100px;
+	margin-bottom: 3px;
+
+	background-color: gray;
+}
+.logo{
+	border: 5px solid yellow;
+	text-align: center;
+	min-height: 50px;
+	width: 50px;
+	background-color: red;
+	float: left;
+}
+.menu{
+	border: 5px solid yellow;
+	text-align: center;
+	min-height: 50px;
+	width: 100px;
+	background-color: green;
+	float: right;
+}
+.banner{
+	padding: 50px 0;
+	border: 5px solid blue;
+	text-align: center;
+	
+	margin-bottom: 3px;
+	
+	background-color: green;
+}
+.center{
+	min-height: 200px;
+	width: 200px;
+	background-color: red;
+	margin:0 auto;
+}
+
+.service{
+	border: 5px solid green;
+	overflow: hidden;
+	
+	margin-bottom: 3px;
+	min-height: 100px;
+	background-color: yellow;
+}
+.service1,.service3{
+     border: 5px solid blue;
+     padding: 30px 0;
+     min-height: 300px;
+     width: 31.5%;
+     float:left; 
+     background-color: yellow;
+}
+.service2{
+     border: 5px solid blue;
+     padding: 30px 0;
+     min-height: 300px;
+     width: 34.7%;
+     float:left; 
+     background-color: yellow;
+}
+.content{
+	border:5px solid red;
+	min-height: 300px;
+	width:59%;
+	float: right;
+}
+.footer{
+	border: 5px solid yellow;
+	text-align: center;
+	min-height: 100px;
+	margin-bottom: 3px;
+	
+	background-color: brown;
+}
+.footer_left{
+width: 100px;
+float: left;
+border: 5px solid gray;
+min-height: 50px;
+margin: 25px 0;
+}
+.footer_right{
+width: 300px;
+float: right;
+border: 5px solid gray;
+min-height: 50px;
+margin: 25px 0;
+}
+.right1{
+	height: 40px;
+	width: 40px;
+	background-color: yellow;
+	float: left;
+	margin-right: 90px;
+}
+.right2{
+height: 40px;
+	width: 40px;
+	background-color: yellow;
+	float:left;
+	margin-right: 90px;
+}
+.right3{
+height: 40px;
+	width: 40px;
+	background-color: yellow;
+    float: left;
+    margin-right: 0px;
+}
